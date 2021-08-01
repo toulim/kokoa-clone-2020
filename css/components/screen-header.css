@@ -2,16 +2,21 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 40px;
-  margin-bottom: 10px;
+  padding: 50px;
+  margin-bottom: 0px;
 }
 
 .screen-header__title {
   margin-left: -15px;
   font-size: 30px;
-  font-weight: 600;
+  font-weight: 550;
+}
+
+.screen-header__icons {
+  margin-right: -15px;
 }
 
 .screen-header__icons span {
-  margin-left: 25px;
+  margin-left: 22px;
+  position: relative;
 }
